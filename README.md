@@ -1,4 +1,27 @@
-### Hi there 👋
+<table rules=none>
+  <tr>
+    <th> <a href="">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaycbee&layout=pie&theme=dracula&count_private=true" />
+      </a></th>
+    <th>
+      <table  cellspacing="0" cellpadding="0">
+        <tr>
+          <th> <a href="">
+              <img src="https://skillicons.dev/icons?i=git,vscode,lua,rust,py,figma" />
+            </a></th>
+        </tr>
+        <tr>
+          <th> <a href="https://skillicons.dev">
+              <img
+                src="https://github-readme-stats.vercel.app/api?username=Jaycbee&rank_icon=github&count_private=true&theme=dracula" />
+            </a></th>
+        </tr>
+    </th>
+  </tr>
+</table>
+</table>
+
 
 <!--
 **Jaycbee/Jaycbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
