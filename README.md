@@ -12,7 +12,7 @@
             </a></th>
         </tr>
         <tr>
-          <th> <a href="https://skillicons.dev">
+          <th> <a href="">
               <img
                 src="https://github-readme-stats.vercel.app/api?username=Jaycbee&rank_icon=github&count_private=true&theme=dracula" />
             </a></th>
