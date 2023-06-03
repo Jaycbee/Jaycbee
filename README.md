@@ -8,7 +8,7 @@
       <table  cellspacing="0" cellpadding="0">
         <tr>
           <th> <a href="">
-              <img src="https://skillicons.dev/icons?i=git,vscode,lua,rust,py,figma" />
+              <img src="https://skillicons.dev/icons?i=git,vscode,lua,rust,latex,figma" />
             </a></th>
         </tr>
         <tr>
