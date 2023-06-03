@@ -14,7 +14,7 @@
         <tr>
           <th> <a href="">
               <img
-                src="https://github-readme-stats.vercel.app/api?username=Jaycbee&rank_icon=github&count_private=true&theme=dracula" />
+                src="https://github-readme-stats.vercel.app/api?username=Jaycbee&rank_icon=github&count_private=true&hide=stars&theme=dracula" />
             </a></th>
         </tr>
     </th>
