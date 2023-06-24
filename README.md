@@ -25,7 +25,11 @@
 -->
 
 
- <img src="https://skillicons.dev/icons?i=bevy,vscode,lua,rust,latex,figma" />
+
+<div align = "center">
+   <img src="https://skillicons.dev/icons?i=bevy,vscode,lua,rust,latex,figma" />
+</div>
+
 <!--
 **Jaycbee/Jaycbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
