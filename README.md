@@ -1,3 +1,4 @@
+<!--
 <table rules=none>
   <tr>
     <th> <a href="">
@@ -14,15 +15,17 @@
         <tr>
           <th> <a href="">
               <img
-                src="https://github-readme-stats.vercel.app/api?username=Jaycbee&rank_icon=github&count_private=true&hide=stars&theme=dracula" />
+                src="https://github-readme-stats.vercel.app/api?username=Jaycbee&rank_icon=github&count_private=true&hide=stars&theme=dracula" />  
             </a></th>
         </tr>
     </th>
   </tr>
 </table>
 </table>
+-->
 
 
+ <img src="https://skillicons.dev/icons?i=bevy,vscode,lua,rust,latex,figma" />
 <!--
 **Jaycbee/Jaycbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
