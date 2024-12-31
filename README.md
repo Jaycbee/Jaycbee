@@ -27,7 +27,7 @@
 
 
 <div align = "center">
-   <img src="https://skillicons.dev/icons?i=bevy,vscode,lua,rust,latex,figma" />
+   <img src="https://skillicons.dev/icons?i=lua,java,cpp,rust,figma" />
 </div>
 
 <!--
